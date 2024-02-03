@@ -1,5 +1,7 @@
 # Углубленный Python и ИИ
 
+Чат курса: https://t.me/+Un9zmuYWWDdiOTFi
+
 Преподаватель в тг @lyuba_chuba
 
 Ассистент в тг @nanayaton
